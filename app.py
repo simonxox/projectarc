@@ -1,1 +1,1 @@
-hi from pikemon
+hi from max
